@@ -1,0 +1,79 @@
+{
+	"gameName": "Empty Game",
+	"home": {
+		"bet": "KØB ET SPIL - {{bet}}",
+		"rebet": "KØB NYT SPIL - {{bet}}",
+		"resume": "KØB SPIL - {{bet}}",
+		"demo": "PRØV",
+		"redemo": "PRØV IGEN",
+		"title": "Vil du prøve eller købe et spil?",
+		"tryAgain": "Prøv igen"
+	},
+	"confirmBet": {
+		"bet": "BEKRÆFT KØB",
+		"cancel": "NEJ TAK",
+		"title": "Bekræft køb",
+		"text": "Er du sikker på, at du vil købe et Empty Game spil for {{bet}}?"
+	},
+	"resumeGame": {
+		"button": "SKRAB NU",
+		"title": "DU HAR ET ÅBENT SPIL",
+		"text": "Du skal afslutte dit åbne spil for at fortsætte."
+	},
+  "replayGame": {
+    "title": "SE DIT SPIL IGEN",
+    "text": "Klik \"se spil\" nedenfor og genoplev dit Quick-spil med spil-id {{ticketId}}",
+    "replay": "SE SPIL",
+		"rebet": "KØB NYT SPIL - {{bet}}"
+
+  },
+	"rules": {
+    "ok": "Gå til spil",
+    "hide": "Vis ikke igen",
+		"slide1": {
+			"title": "Sådan spiller du",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut laoreet, nisi euismod iaculis mollis, ante purus posuere nibh, sed ultrices risus urna eget nibh.",
+			"image": "monster1"
+		},
+		"slide2": {
+			"title": "Sådan spiller du",
+			"text": "Cras eleifend sagittis neque, eu laoreet ipsum blandit eu. Vestibulum ut vestibulum eros, eget pretium nibh.",
+			"image": "monster2"
+		}
+	},
+	"reveal": {
+		"buttonAuto": "Autoskrab",
+		"buttonStopAuto": "Stop autoskrab"
+	},
+	"winningTable": {
+		"title": "Gevinstoversigt",
+		"ranks": [
+			"250.000 kr.",
+			"25.000 kr.",
+			"5.000 kr.",
+			"1.000 kr.",
+			"500 kr.",
+			"100 kr.",
+			"50 kr.",
+			"25 kr."
+		],
+		"gainRanks": [
+			"250.000 kr.",
+			"25.000 kr.",
+			"5.000 kr.",
+			"1.000 kr.",
+			"500 kr.",
+			"100 kr.",
+			"50 kr.",
+			"25 kr."
+		]
+	},
+  "result": {
+    "winner": "TILLYKKE!",
+    "winnerSubText": "Du har vundet en gevinst",
+    "winnerSubTextDemo": "Hvis du havde købt et spil, kunne du have vundet",
+    "looser": "DESVÆRRE!",
+    "looserSubText": "Ingen gevinst denne gang",
+    "looserSubTextDemo": " Ingen gevinst denne gang"
+  }
+}

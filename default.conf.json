@@ -1,0 +1,78 @@
+{
+  "masterGameCode": "dsdenskoereprofessor2023",
+  "masterGameLabel": "dsdenskoereprofessor2023",
+  "gameProvider": "DKS",
+  "gameDescription": {
+    "numberOfStakes": {
+      "min": 1,
+      "max": 1
+    },
+    "isJackpot": false,
+    "isConversion": false,
+    "jackpotCompatible": false,
+    "demoCompatible": true,
+    "replayCompatible": true,
+    "supportedBetModes": ["BET_MANUAL_CLAIM"],
+    "assets": {
+      "i18n": {
+        "da-DK": "da-DK.json"
+      },
+      "themes": {
+        "2023": "2023"
+      },
+      "behaviours": {
+        "ds": "ds"
+      },
+      "services": {
+        "dsdenskoereprofessor2023": "croupier/croupier-dsdenskoereprofessor2023.json"
+      }
+    }
+  },
+  "lotteryGameCode": "dsdenskoereprofessor2023",
+  "stakes": [
+    {
+      "value": 2000,
+      "currency": "DKK"
+    }
+  ],
+  
+  "demo": {
+    "enabled": true,
+    "forceAuthentication": false
+  },
+  "selectedBetMode": "BET_MANUAL_CLAIM",
+  "selectedTheme": "2023",
+  "selectedLocale": "da-DK",
+  "selectedBehaviour": "ds",
+  "gameParameters": {
+    "isPortrait": false,
+    "hideBackground": false,
+    "pauseOnBlur": false,
+    "pauseOnSettings": true,
+    "testmode": false,
+    "width": 1920,
+    "height": 1200,
+    "aspect": 1.6
+  },
+  "behavioursParameters": {
+    "ds": {
+      "hideRules": false,
+      "pauseOnBlur": false,
+      "skipSplash": false,
+      "startReplayOn": "home",
+      "confirmOnBet": true,
+      "autoButton": true,
+      "demoButton": true,
+      "handlePreBet": true,
+      "resumeOnStart": false,
+      "vi": "ds",
+      "viParameters": {
+        "showPurse": false,
+        "clock": {
+          "color": "#000000"
+        }
+      }
+    }
+  },
+  "defaultStakeIndex": 0
+}

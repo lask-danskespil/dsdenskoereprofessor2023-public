@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "version": "1.0.0",
+  "gdkVersion": "2.5.0",
+  "engine": "ITG",
+  "engineProvider": "FDJ",
+  "bridgeVersion": "2.0.0",
+  "main": "build/index.js",
+  "loader": {
+    "es6-promise": "node_modules/es6-promise/dist/es6-promise.auto.min.js",
+    "systemjs": "node_modules/systemjs/dist/system.src.js"
+  },
+  "modules": {
+    "paths": {
+      "pixi.js": "node_modules/pixi.js/dist/pixi.js",
+      "@gdk/core": "node_modules/@gdk/core/dist/core.bundle.js",
+      "@gdk/core-pixi": "node_modules/@gdk/core-pixi/dist/core-pixi.bundle.js",
+      "@gdk/gamekit": "node_modules/@gdk/gamekit/dist/gamekit.bundle.js",
+      "gsap": "node_modules/gsap/TweenMax.js",
+      "i18next": "node_modules/i18next/i18next.js",
+      "howler": "node_modules/howler/dist/howler.js",
+      "pixi-spine": "node_modules/pixi-spine/bin/pixi-spine.js",
+      "opentype.js": "node_modules/opentype.js/dist/opentype.js",
+      "proton-js": "node_modules/proton-js/build/proton.min.js"
+    },
+    "packages": {
+      "./": {
+        "defaultExtension": "js"
+      }
+    },
+    "meta": {
+      "@gdk/core": {
+        "format": "cjs"
+      },
+      "@gdk/core-pixi": {
+        "format": "cjs"
+      },
+      "@gdk/gamekit": {
+        "format": "cjs"
+      },
+      "pixi-spine": {
+        "deps": ["pixi.js"]
+      }
+    }
+  }
+}

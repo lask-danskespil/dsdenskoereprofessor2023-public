@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "start",
+      "label": "npm: start",
+      "detail": "gameserver --port 1339"
+    },
+    {
+      "type": "npm",
+      "script": "watch",
+      "label": "npm: watch",
+      "detail": "tsc -p . --watch --skipLibCheck"
+    },
+    {
+      "label": "Start local env",
+      "dependsOn": ["npm: start", "npm: watch"],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+	"OpenSans-SemiBold": "fonts/OpenSans-Semibold.woff",
+  "Boogaloo-Regular": "fonts/Boogaloo-Regular.woff",  
+	"i18n": {
+    "da-DK": "locales/da-DK.json"
+	},
+  "result.json": "images/result.json",
+  "background": "images/background.png",
+  "splash-background": "images/splash-background.png",
+  "monster1": "images/monster1.png",
+  "monster2": "images/monster2.png",
+  "vi.json": "images/vi.json",
+  "visual-identity.json": "images/visual-identity.json",
+  "monster": "images/monster.json",
+  "logo": "images/logo.png",
+  "outside": "images/outside.json",
+  "grad": "images/grad.png",
+  "foreground": "images/foreground.png",
+  "furniture": "images/furniture.json",
+  "cuckoo": "images/cuckoo.json",
+  "elements": "images/elements.json",
+  "professor": "images/professor.png",
+
+  "room-animations": "animations/room.json",
+  "room-animations-images-0": "animations/images/animation-images-0.json",
+  "room-animations-images-1": "animations/images/animation-images-1.json",
+
+  
+  "sfx-scratch": "sounds/scratch.mp3",
+  "sfx-droplet": "sounds/droplet.mp3",
+  "sfx-tictac": "sounds/tic.mp3",
+  "sfx-theme": "sounds/theme.mp3",
+  "sfx-button": "sounds/click.mp3"
+}

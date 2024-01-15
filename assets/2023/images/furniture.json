@@ -1,0 +1,108 @@
+{"frames": {
+
+"furniture/blackboard":
+{
+	"frame": {"x":517,"y":997,"w":210,"h":277},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":277},
+	"sourceSize": {"w":210,"h":277}
+},
+"furniture/box":
+{
+	"frame": {"x":1643,"y":535,"w":184,"h":125},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":125},
+	"sourceSize": {"w":184,"h":125}
+},
+"furniture/cabinet":
+{
+	"frame": {"x":1322,"y":577,"w":319,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":319,"h":359},
+	"sourceSize": {"w":319,"h":359}
+},
+"furniture/cable":
+{
+	"frame": {"x":371,"y":396,"w":599,"h":575},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":599,"h":575},
+	"sourceSize": {"w":599,"h":575}
+},
+"furniture/closet":
+{
+	"frame": {"x":1,"y":396,"w":368,"h":825},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":368,"h":825},
+	"sourceSize": {"w":368,"h":825}
+},
+"furniture/commode":
+{
+	"frame": {"x":948,"y":396,"w":381,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":381,"h":179},
+	"sourceSize": {"w":381,"h":179}
+},
+"furniture/door":
+{
+	"frame": {"x":796,"y":997,"w":188,"h":534},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":534},
+	"sourceSize": {"w":188,"h":534}
+},
+"furniture/globe":
+{
+	"frame": {"x":1332,"y":938,"w":268,"h":347},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":347},
+	"sourceSize": {"w":268,"h":347}
+},
+"furniture/ladder":
+{
+	"frame": {"x":1332,"y":396,"w":137,"h":433},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":433},
+	"sourceSize": {"w":137,"h":433}
+},
+"furniture/shelfs":
+{
+	"frame": {"x":1,"y":1,"w":1752,"h":393},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1752,"h":393},
+	"sourceSize": {"w":1752,"h":393}
+},
+"furniture/table":
+{
+	"frame": {"x":948,"y":577,"w":407,"h":372},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":407,"h":372},
+	"sourceSize": {"w":407,"h":372}
+},
+"furniture/tripod":
+{
+	"frame": {"x":371,"y":997,"w":144,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":214},
+	"sourceSize": {"w":144,"h":214}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "furniture.png",
+	"format": "RGBA8888",
+	"size": {"w":1769,"h":1222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:066d12d79d334ccbea3c11e736634d1b:039429866126d147fa5a48cb140fdada:205eea12a903fe13309c00c78692222e$"
+}
+}

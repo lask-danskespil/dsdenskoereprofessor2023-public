@@ -1,0 +1,2031 @@
+{
+  "elements":[
+    {
+      "id":1,
+      "name":"hammer",
+      "width": 83,
+      "height": 46,
+      "locations":[
+        {
+          "x":1082,
+          "y":752,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1215,
+          "y":931,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":393,
+          "y":989,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":588,
+          "y":809,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name":"bucket",
+      "width": 66,
+      "height": 63,
+      "locations":[
+        {
+          "x":442,
+          "y":770,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":511,
+          "y":243,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1114,
+          "y":418,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1551,
+          "y":275,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1204,
+          "y":242,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":951,
+          "y":244,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1220,
+          "y":695,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1470,
+          "y":805,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront":true
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name":"coins",
+      "width": 17,
+      "height": 40,
+      "locations":[
+        {
+          "x":1077,
+          "y":639,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1136,
+          "y":423,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1279,
+          "y":746,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1128,
+          "y":898,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":516,
+          "y":734,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":292,
+          "y":683,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":247,
+          "y":607,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name":"corks",
+      "width": 51,
+      "height": 39,
+      "locations":[
+        {
+          "x":1182,
+          "y":723,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":466,
+          "y":780,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":324,
+          "y":686,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":520,
+          "y":740,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":267,
+          "y":871,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":555,
+          "y":999,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":904,
+          "y":906,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":5,
+      "name":"crown",
+      "width": 41,
+      "height": 38,
+      "locations":[
+        {
+          "x":348,
+          "y":809,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":262,
+          "y":423,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1450,
+          "y":950,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1596,
+          "y":158,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name":"diamond",
+      "width": 48,
+      "height": 32,
+      "locations":[
+        {
+          "x":347,
+          "y":603,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1553,
+          "y":281,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1200,
+          "y":249,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1116,
+          "y":425,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":953,
+          "y":249,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":642,
+          "y":249,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":501,
+          "y":249,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":7,
+      "name":"crystalball",
+      "width": 44,
+      "height": 50,
+      "locations":[
+        {
+          "x":510,
+          "y":242,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":637,
+          "y":242,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":518,
+          "y":729,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1191,
+          "y":416,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1553,
+          "y":274,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":900,
+          "y":780,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1318,
+          "y":770,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront":true
+        }
+      ]
+    },
+    {
+      "id":8,
+      "name":"divider",
+      "width": 114,
+      "height": 56,
+      "locations":[
+        {
+          "x":347,
+          "y":1015,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1350,
+          "y":1000,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1649,
+          "y":910,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":736,
+          "y":964,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":643,
+          "y":741,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":9,
+      "name":"feather",
+      "width": 107,
+      "height": 22,
+      "locations":[
+        {
+          "x":1099,
+          "y":737,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1597,
+          "y":945,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":648,
+          "y":752,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1190,
+          "y":433,
+          "flipHorizontal":true,
+          "flipVertical":true
+        },
+        {
+          "x":1294,
+          "y":798,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":302,
+          "y":878,
+          "flipHorizontal":true,
+          "flipVertical":true
+        }
+      ]
+    },
+    {
+      "id":10,
+      "name":"frame",
+      "width": 60,
+      "height": 79,
+      "locations":[
+        {
+          "x": 740,
+          "y": 161,
+          "flipHorizontal": false,
+          "flipVertical": false
+        },
+        {
+          "x": 1215,
+          "y": 685,
+          "flipHorizontal": false,
+          "flipVertical": false
+        },
+        {
+          "x": 465,
+          "y": 444,
+          "flipHorizontal": false,
+          "flipVertical": false
+        },
+        {
+          "x": 1106,
+          "y": 906,
+          "flipHorizontal": true,
+          "flipVertical": false,
+          "inFront": true
+        },
+        {
+          "x": 1430,
+          "y": 770,
+          "flipHorizontal": false,
+          "flipVertical": false
+        },
+        {
+          "x": 603,
+          "y": 688,
+          "flipHorizontal": false,
+          "flipVertical": false
+        },
+        {
+          "x": 615,
+          "y": 495,
+          "flipHorizontal": false,
+          "flipVertical": false
+        }
+      ]
+    },
+    {
+      "id":11,
+      "name":"funnel",
+      "width": 59,
+      "height": 40,
+      "locations":[
+        {
+          "x":1550,
+          "y":995,
+          "flipHorizontal":true,
+          "flipVertical":true,
+          "inFront": true
+        },
+        {
+          "x":355,
+          "y":959,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":272,
+          "y":859,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":720,
+          "y":838,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1416,
+          "y":898,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1713,
+          "y":1019,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1235,
+          "y":704,
+          "flipHorizontal":false,
+          "flipVertical":true,
+          "inFront": true
+        }
+      ]
+    },
+    {
+      "id":12,
+      "name":"gloves",
+      "width": 71,
+      "height": 61,
+      "locations":[
+        {
+          "x":1060,
+          "y":670,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1112,
+          "y":447,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":428,
+          "y":545,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1510,
+          "y":871,
+          "flipHorizontal":false,
+          "flipVertical":false, 
+          "inFront":true
+        },
+        {
+          "x":1550,
+          "y":305,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1200,
+          "y":450,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1220,
+          "y":728,
+          "flipHorizontal":false,
+          "flipVertical":false, 
+          "inFront":true
+        },
+        {
+          "x":454,
+          "y":715,
+          "flipHorizontal":false,
+          "flipVertical":false, 
+          "inFront":true
+        }
+      ]
+    },
+    {
+      "id":13,
+      "name":"skeletonhand",
+      "width": 42,
+      "height": 62,
+      "locations":[
+        {
+          "x":307,
+          "y":672,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":519,
+          "y":718,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1109,
+          "y":702,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront":true
+        },
+        {
+          "x":1440,
+          "y":266,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":948,
+          "y":628,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":14,
+      "name":"web",
+      "width": 191,
+      "height": 123,
+      "locations":[
+        {
+          "x":1607,
+          "y":60,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":434,
+          "y":160,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":108,
+          "y":867,
+          "flipHorizontal":false,
+          "flipVertical":true
+        }
+      ]
+    },
+    {
+      "id":15,
+      "name":"frog",
+      "width": 59,
+      "height": 82,
+      "locations":[
+        {
+          "x":468,
+          "y":176,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":528,
+          "y":720,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1101,
+          "y":412,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1607,
+          "y":396,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1540,
+          "y":720,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1280,
+          "y":429,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": false
+        }
+      ]
+    },
+    {
+      "id":16,
+      "name":"crystal",
+      "width": 51,
+      "height": 47,
+      "locations":[
+        {
+          "x":328,
+          "y":675,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":361,
+          "y":945,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":960,
+          "y":636,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":942,
+          "y":717,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":898,
+          "y":895,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":276,
+          "y":770,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1235,
+          "y":700,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1518,
+          "y":810,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        }
+      ]
+    },
+    {
+      "id":17,
+      "name":"hourglass",
+      "width": 30,
+      "height": 64,
+      "locations":[
+        {
+          "x":917,
+          "y":626,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1044,
+          "y":935,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1189,
+          "y":759,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1083,
+          "y":707,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":305,
+          "y":670,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":18,
+      "name":"petridish",
+      "width": 34,
+      "height": 15,
+      "locations":[
+        {
+          "x":888,
+          "y":775,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":899,
+          "y":863,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1619,
+          "y":950,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":515,
+          "y":745,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1011,
+          "y":690,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":437,
+          "y":812,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":19,
+      "name":"poisonbottle",
+      "width": 27,
+      "height": 56,
+      "locations":[
+        {
+          "x":1440,
+          "y":939,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1621,
+          "y":950,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":608,
+          "y":1003,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":600,
+          "y":706,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":20,
+      "name":"apple",
+      "width": 27,
+      "height": 56,
+      "locations":[
+        {
+          "x":514,
+          "y":773,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":260,
+          "y":877,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":305,
+          "y":681,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":940,
+          "y":640,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1450,
+          "y":156,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1580,
+          "y":956,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":21,
+      "name":"hook",
+      "width": 56,
+      "height": 133,
+      "locations":[
+        {
+          "x":360,
+          "y":67,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1658,
+          "y":67,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":1361,
+          "y":275,
+          "flipHorizontal": true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":22,
+      "name":"inkwell",
+      "width": 53,
+      "height": 52,
+      "locations":[
+        {
+          "x":313,
+          "y":679,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":270,
+          "y":860,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":333,
+          "y":952,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1550,
+          "y":1000,
+          "flipHorizontal": false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1280,
+          "y":750,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1750,
+          "y":1010,
+          "flipHorizontal": false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":23,
+      "name":"magnifyingglass",
+      "width": 42,
+      "height": 25,
+      "locations":[
+        {
+          "x":1241,
+          "y":970,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1038,
+          "y":945,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":279,
+          "y":862,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":440,
+          "y":706,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":1067,
+          "y":655,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1170,
+          "y":789,
+          "flipHorizontal": false,
+          "flipVertical":false,
+          "inFront": true
+        }
+      ]
+    },
+    {
+      "id":24,
+      "name":"broom",
+      "width": 61,
+      "height": 259,
+      "locations":[
+        {
+          "x":143,
+          "y":818,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":618,
+          "y":636,
+          "flipHorizontal": false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1433,
+          "y":712,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":1710,
+          "y":730,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1205,
+          "y":595,
+          "flipHorizontal": false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":25,
+      "name":"key",
+      "width": 53,
+      "height": 24,
+      "locations":[
+        {
+          "x":1153,
+          "y":784,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1153,
+          "y":997,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":570,
+          "y":1000,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":462,
+          "y":908,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":446,
+          "y":705,
+          "flipHorizontal": true,
+          "flipVertical":false,
+          "inFront":true
+        },
+        {
+          "x":996,
+          "y":695,
+          "flipHorizontal": true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":26,
+      "name":"magicwand",
+      "width": 100,
+      "height": 72,
+      "locations":[
+        {
+          "x":1040,
+          "y":759,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":948,
+          "y":990,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":443,
+          "y":882,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":683,
+          "y":882,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1282,
+          "y":878,
+          "flipHorizontal": true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1628,
+          "y":1002,
+          "flipHorizontal": false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":27,
+      "name":"labcoat",
+      "width": 57,
+      "height": 305,
+      "locations":[
+        {
+          "x":1270,
+          "y":557,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":111,
+          "y":676,
+          "flipHorizontal": true,
+          "flipVertical":false
+        },
+        {
+          "x":1694,
+          "y":636,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1435,
+          "y":643,
+          "flipHorizontal": true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":28,
+      "name":"ruler",
+      "width": 84,
+      "height": 15,
+      "locations":[
+        {
+          "x":1002,
+          "y":785,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":662,
+          "y":933,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":987,
+          "y":1007,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":1706,
+          "y":1024,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":660,
+          "y":738,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":455,
+          "y":810,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1495,
+          "y":840,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront":true
+        },
+        {
+          "x":645,
+          "y":425,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":29,
+      "name":"magnet",
+      "width": 46,
+      "height": 18,
+      "locations":[
+        {
+          "x":937,
+          "y":736,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":368,
+          "y":864,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1255,
+          "y":750,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1368,
+          "y":840,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":440,
+          "y":706,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":30,
+      "name":"map",
+      "width": 148,
+      "height": 68,
+      "locations":[
+        {
+          "x":1650,
+          "y":900,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1018,
+          "y":976,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":499,
+          "y":976,
+          "flipHorizontal": false,
+          "flipVertical":false
+        },
+        {
+          "x":692,
+          "y":804,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":31,
+      "name":"mask",
+      "width": 29,
+      "height": 77,
+      "locations":[
+        {
+          "x":403,
+          "y":451,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":324,
+          "y":318,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1674,
+          "y":411,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1322,
+          "y":384,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":32,
+      "name":"microscope",
+      "width": 38,
+      "height": 67,
+      "locations":[
+        {
+          "x":1061,
+          "y":630,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1185,
+          "y":755,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":951,
+          "y":920,
+          "flipHorizontal": false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":308,
+          "y":671,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":515,
+          "y":721,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":644,
+          "y":705,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":33,
+      "name":"mortar",
+      "width": 61,
+      "height": 61,
+      "locations":[
+        {
+          "x":330,
+          "y":673,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":717,
+          "y":780,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1099,
+          "y":937,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1475,
+          "y":820,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1207,
+          "y":790,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":34,
+      "name":"clover",
+      "width": 44,
+      "height": 37,
+      "locations":[
+        {
+          "x":330,
+          "y":940,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1154,
+          "y":777,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1600,
+          "y":1025,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":268,
+          "y":870,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1600,
+          "y":160,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":170,
+          "y":250,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":35,
+      "name":"mushroom",
+      "width": 100,
+      "height": 60,
+      "locations":[
+        {
+          "x":161,
+          "y":930,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":594,
+          "y":1005,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1483,
+          "y":821,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1310,
+          "y":791,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1620,
+          "y":162,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":430,
+          "y":228,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1740,
+          "y":570,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":36,
+      "name":"gold",
+      "width": 91,
+      "height": 43,
+      "locations":[
+        {
+          "x":1163,
+          "y":990,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1733,
+          "y":912,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":512,
+          "y":990,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":723,
+          "y":741,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":37,
+      "name":"nutbolt",
+      "width": 64,
+      "height": 26,
+      "locations":[
+        {
+          "x":1036,
+          "y":951,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1004,
+          "y":786,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1340,
+          "y":1004,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":274,
+          "y":874,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":322,
+          "y":693,
+          "flipHorizontal":false,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":38,
+      "name":"padlock",
+      "width": 55,
+      "height": 28,
+      "locations":[
+        {
+          "x":1441,
+          "y":630,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":488,
+          "y":737,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1094,
+          "y":880,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1011,
+          "y":880,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":931,
+          "y":700,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1665,
+          "y":658,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":39,
+      "name":"scale",
+      "width": 77,
+      "height": 84,
+      "locations":[
+        {
+          "x":1023,
+          "y":620,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1152,
+          "y":400,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":680,
+          "y":720,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1462,
+          "y":256,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":40,
+      "name":"scope",
+      "width": 156,
+      "height": 150,
+      "locations":[
+        {
+          "x":1641,
+          "y":626,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1430,
+          "y":970,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":41,
+      "name":"scroll",
+      "width": 73,
+      "height": 28,
+      "locations":[
+        {
+          "x":272,
+          "y":611,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1122,
+          "y":427,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1461,
+          "y":285,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1155,
+          "y":255,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":510,
+          "y":254,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":960,
+          "y":253,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":42,
+      "name":"setup",
+      "width": 100,
+      "height": 112,
+      "locations":[
+        {
+          "x":945,
+          "y":610,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1690,
+          "y":930,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":400,
+          "y":970,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        }
+      ]
+    },
+    {
+      "id":43,
+      "name":"skull",
+      "width": 59,
+      "height": 62,
+      "locations":[
+        {
+          "x":1250,
+          "y":740,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":328,
+          "y":676,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":532,
+          "y":759,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":940,
+          "y":763,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1458,
+          "y":273,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1630,
+          "y":664,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":44,
+      "name":"spunch",
+      "width": 57,
+      "height": 24,
+      "locations":[
+        {
+          "x":1065,
+          "y":654,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":944,
+          "y":734,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":445,
+          "y":707,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":293,
+          "y":783,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":335,
+          "y":695,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1439,
+          "y":824,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1255,
+          "y":633,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        }
+      ]
+    },
+    {
+      "id":45,
+      "name":"stool",
+      "width": 103,
+      "height": 121,
+      "locations":[
+        {
+          "x":1692,
+          "y":966,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1236,
+          "y":938,
+          "flipHorizontal":true,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":461,
+          "y":955,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":720,
+          "y":801,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1185,
+          "y":801,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":46,
+      "name":"sundial",
+      "width": 48,
+      "height": 71,
+      "locations":[
+        {
+          "x":1150,
+          "y":764,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1109,
+          "y":930,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":603,
+          "y":995,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1300,
+          "y":787,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1722,
+          "y":966,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":312,
+          "y":675,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":47,
+      "name":"fishbowl",
+      "width": 76,
+      "height": 65,
+      "locations":[
+        {
+          "x":1558,
+          "y":266,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":1200,
+          "y":233,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":1123,
+          "y":411,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":505,
+          "y":235,
+          "flipHorizontal":true,
+          "flipVertical":false
+        },
+        {
+          "x":275,
+          "y":594,
+          "flipHorizontal":true,
+          "flipVertical":false
+        }
+      ]
+    },
+    {
+      "id":48,
+      "name":"pliers",
+      "width": 75,
+      "height": 44,
+      "locations":[
+        {
+          "x":1100,
+          "y":768,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":1284,
+          "y":887,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        },
+        {
+          "x":281,
+          "y":790,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":640,
+          "y":774,
+          "flipHorizontal":false,
+          "flipVertical":false
+        },
+        {
+          "x":949,
+          "y":774,
+          "flipHorizontal":false,
+          "flipVertical":false,
+          "inFront": true
+        }
+      ]
+    }
+  ]
+}

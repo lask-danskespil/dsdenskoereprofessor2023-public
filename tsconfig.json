@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "outDir": "./build",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "strict": false,
+    "lib": ["es5", "es2015", "dom", "scripthost"]
+  },
+  "exclude": ["./node_modules", "./build"]
+}

@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background-color: #774080;
+      }
+
+      iframe {
+        border: 0;
+      }
+    </style>
+    <script>
+      window.addEventListener("resize", resize);
+      window.addEventListener("DOMContentLoaded", resize);
+
+      function resize() {
+        const iframe = document.getElementById("iframe");
+        const aspect = window.innerWidth / window.innerHeight;
+
+        if (aspect > 0.9) {
+          iframe.style.marginLeft = (window.innerWidth - (window.innerHeight * 1080) / 1200) / 2 + "px";
+          iframe.style.marginTop = "2.5vh";
+          iframe.style.height = "95vh";
+          iframe.style.width = "calc(95vh * (1080/1200))";
+        } else {
+          iframe.style.marginLeft = "2.5vw";
+          iframe.style.marginTop = (window.innerHeight - (window.innerWidth * 1200) / 1080) / 2 + "px";
+          iframe.style.height = "calc(95vw * (1200/1080))";
+          iframe.style.width = "95vw";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <iframe src="http://localhost:1339/" id="iframe" scrolling="no" allowfullscreen width="1080" height="1200"></iframe>
+  </body>
+</html>

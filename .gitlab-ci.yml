@@ -1,0 +1,55 @@
+default:
+  image: gdk-forge-game:latest
+  tags:
+    - common
+
+stages:
+  - setup
+  - healthcheck
+
+cache:
+  key: $CI_COMMIT_REF_SLUG
+  paths:
+    - node_modules
+
+before_script:
+  - npm ci
+
+.dev-or-mr: &dev-or-mr
+  rules:
+    # automatic on dev branch (no duplicate if merge request)
+    - if: '$CI_COMMIT_REF_NAME == "dev" && $CI_MERGE_REQUEST_ID != null'
+      when: on_success
+    # automatic on merge request if not on master or dev branches
+    - if: '$CI_COMMIT_REF_NAME != "dev" && $CI_COMMIT_REF_NAME != "master" && $CI_MERGE_REQUEST_ID != null'
+      when: on_success
+
+build-pack:
+  <<: *dev-or-mr
+  stage: setup
+  artifacts:
+    expire_in: 1 day
+    when: always
+    paths:
+      - build
+      - delivery
+      - delivery-report.json
+      - forge.log
+  script:
+    - test -f deliveryContext.md || (echo "You must add a deliveryContext.md file, see a sample here https://doc.gdk.fdj-gs.com/latest/documentation/guide/3-developer-guidelines/deliveryContext.md" && exit 1)
+    - npm run build
+    - npm run pack
+    - forge-game setup
+
+ci:
+  <<: *dev-or-mr
+  stage: healthcheck
+  artifacts:
+    expire_in: 1 day
+    when: always
+    paths:
+      - forge.log
+  dependencies:
+    - build-pack
+  script:
+    - forge-game healthcheckci latest

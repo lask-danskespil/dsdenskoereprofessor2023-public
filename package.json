@@ -1,0 +1,62 @@
+{
+  "private": true,
+  "name": "dsdenskoereprofessor2023",
+  "description": "Den skøre professor",
+  "keywords": [
+    "applet",
+    "itg",
+    "fdj"
+  ],
+  "version": "1.1.0",
+  "games": {
+    "default": "default.conf.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ds-itu-frontend-service/dsdenskoereprofessor2023-remake"
+  },
+  "bugs": {
+    "url": "https://support.lotsys.com/jira/browse"
+  },
+  "scripts": {
+    "clean": "rimraf build delivery",
+    "compile": "tsc -p . --skipLibCheck",
+    "watch": "tsc -p . --watch --skipLibCheck",
+    "build": "npm run clean && npm run compile",
+    "start": "gameserver --port 1337",
+    "pack": "gdkpacker",
+    "format": "prettier . --write",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@gdk/gameserver": "3.6.4",
+    "@gdk/packer": "3.6.4",
+    "@gdk/rules": "1.0.*",
+    "@types/gsap": "~1.19.2",
+    "@types/howler": "~2.1.0",
+    "@types/i18next": "8.4.3",
+    "@types/opentype.js": "^0.7.2",
+    "@types/pixi.js": "4.8.5",
+    "rimraf": "^2.6.2",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "@gdk/core": "3.6.4",
+    "@gdk/core-pixi": "3.6.4",
+    "@gdk/gamekit": "3.6.4",
+    "es6-promise": "4.2.4",
+    "gsap": "1.20.4",
+    "howler": "2.1.2",
+    "i18next": "10.6.0",
+    "opentype.js": "0.8.0",
+    "pixi-spine": "1.5.15",
+    "pixi.js": "4.8.8",
+    "proton-js": "3.1.2",
+    "systemjs": "0.21.0"
+  },
+  "publishConfig": {
+    "registry": "http://otto:8081/nexus/repository/npm-release/"
+  },
+  "author": "FGS",
+  "license": "UNLICENSED"
+}

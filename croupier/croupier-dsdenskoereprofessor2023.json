@@ -1,0 +1,195 @@
+{
+  "productName": "dsdenskoereprofessor2023",
+  "masterGameCode": "dsdenskoereprofessor2023",
+  "version": 1,
+  "schemaVersion": 3,
+  "provider": "FDJ",
+  "description": "The lab",
+  "code": "dsdenskoereprofessor2023",
+  "gameRenewal": 0,
+  "poolRemit": true,
+  "infos": {
+    "bicCode": 0,
+    "bicVariant": 0,
+    "gameCode": "dsdenskoereprofessor2023",
+    "label": "dsdenskoereprofessor2023",
+    "type": "Grattage"
+  },
+  "baseStake": 2000,
+  "ranks": [
+    {
+      "id": 1,
+      "prizeType": "H",
+      "factor": {
+        "numerator": 12500,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 1,
+          "quantity": 1,
+          "symbol": "A,H,H,B,E,H,A,B"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prizeType": "G",
+      "factor": {
+        "numerator": 1000,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 3,
+          "quantity": 2,
+          "symbol": "F,F,G,H,H,G,E,G"
+        },
+        {
+          "id": 4,
+          "quantity": 3,
+          "symbol": "A,F,A,F,G,C,G,G"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "prizeType": "F",
+      "factor": {
+        "numerator": 100,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 209,
+          "quantity": 4,
+          "symbol": "E,B,F,G,F,A,F,A"
+        },
+          {
+          "id": 210,
+          "quantity": 4,
+          "symbol": "B,A,A,F,F,C,H,F"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "prizeType": "E",
+      "factor": {
+        "numerator": 50,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 310,
+          "quantity": 200,
+          "symbol": "C,C,E,H,D,F,E,E"
+        },
+        {
+          "id": 311,
+          "quantity": 200,
+          "symbol": "A,E,F,E,G,B,D,E"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "prizeType": "D",
+      "factor": {
+        "numerator": 10,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 411,
+          "quantity": 2000,
+          "symbol": "D,F,H,H,E,B,D,D"
+        },{
+          "id": 412,
+          "quantity": 2000,
+          "symbol": "C,A,G,B,B,D,D,D"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "prizeType": "C",
+      "factor": {
+        "numerator": 5,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 512,
+          "quantity": 10000,
+          "symbol": "F,C,E,E,G,D,C,C"
+        },
+          {
+          "id": 513,
+          "quantity": 10000,
+          "symbol": "C,C,A,F,F,C,H,A"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "prizeType": "B",
+      "factor": {
+        "numerator": 2,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 613,
+          "quantity": 100000,
+          "symbol": "F,B,D,D,B,E,G,B"
+        },
+          {
+          "id": 614,
+          "quantity": 100000,
+          "symbol": "B,H,A,B,A,D,B,F"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "prizeType": "A",
+      "factor": {
+        "numerator": 1,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 110,
+          "quantity": 1000000,
+          "symbol": "F,F,E,A,A,A,B,D"
+        },
+        {
+          "id": 111,
+          "quantity": 1000000,
+          "symbol": "E,E,A,A,G,H,C,A"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "prizeDescription": "-",
+      "factor": {
+        "numerator": 0,
+        "denominator": 1
+      },
+      "tickets": [
+        {
+          "id": 1001,
+          "quantity": 1000000,
+          "symbol": "B,C,C,B,E,A,D,H"
+        },
+          {
+          "id": 1001,
+          "quantity": 1000000,
+          "symbol": "F,A,A,E,E,B,B,H"
+        }
+      ]
+    }
+  ]
+}
