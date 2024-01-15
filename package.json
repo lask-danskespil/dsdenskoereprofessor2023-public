@@ -23,7 +23,7 @@
     "compile": "tsc -p . --skipLibCheck",
     "watch": "tsc -p . --watch --skipLibCheck",
     "build": "npm run clean && npm run compile",
-    "start": "gameserver --port 1337",
+    "start": "gameserver",
     "pack": "gdkpacker",
     "format": "prettier . --write",
     "lint": "eslint ."
